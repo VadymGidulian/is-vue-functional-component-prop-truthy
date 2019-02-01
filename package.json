@@ -1,0 +1,20 @@
+{
+	"name":    "@vadym.gidulian/is-vue-functional-component-prop-truthy",
+	"version": "1.0.0",
+	"license": "MIT",
+	
+	"description": "Checks if a property passed to Vue functional component is truthy",
+	"keywords": [
+		"component",
+		"functional",
+		"vue"
+	],
+	
+	"repository": "github:VadymGidulian/is-vue-functional-component-prop-truthy",
+	
+	"main": "index.js",
+	
+	"peerDependencies":  {
+		"vue": "2"
+	}
+}
